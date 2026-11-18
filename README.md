@@ -1,6 +1,6 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
+# Reg No:212225040133
+# Name: INDHUJA.K
 # Date:
 
 
@@ -48,6 +48,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1917" height="1042" alt="image" src="https://github.com/user-attachments/assets/6d9014f2-da8d-4bde-ae0c-785a96f3d87d" />
 
 
 
@@ -68,6 +69,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1917" height="1040" alt="image" src="https://github.com/user-attachments/assets/82440e38-5def-44e0-8de7-e0e4d7c6bb1c" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -77,6 +79,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/61f11a77-fe58-45d2-806a-224b789df1db" />
 
 
 # PACKAGE DIAGRAM:
@@ -89,6 +92,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1243" height="752" alt="image" src="https://github.com/user-attachments/assets/8f32230c-b076-47d7-bb9f-f7bb0ee01437" />
 
 
 
@@ -107,6 +111,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1915" height="1078" alt="image" src="https://github.com/user-attachments/assets/041e0383-c9ec-4c5c-8798-7eb1fa890b88" />
 
 
 
@@ -116,6 +121,7 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
+<img width="1007" height="851" alt="image" src="https://github.com/user-attachments/assets/f7ec5f3a-e111-4e5a-a184-6275d88add3e" />
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
@@ -128,6 +134,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/deb08065-5f3f-4572-a082-a68e68117e1e" />
 
 
 
